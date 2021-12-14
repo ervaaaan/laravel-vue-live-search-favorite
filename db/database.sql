@@ -159,7 +159,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `username`, `phone`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'Ervan', 'helloervan', '08123456789', 'ervanaquest@gmail.com', '2021-10-18 08:51:01', '$2y$10$PWsx2v42d/w1muGfOfZVd.3WhppcDeRXxxsBKwQIFCbIBduemitEC', NULL, '2021-10-18 08:49:33', '2021-10-18 08:51:01');
+(1, 'Ervan', 'admin', '08123456789', 'hello@merlinbox.com', '2021-10-18 08:51:01', '$2y$10$PWsx2v42d/w1muGfOfZVd.3WhppcDeRXxxsBKwQIFCbIBduemitEC', NULL, '2021-10-18 08:49:33', '2021-10-18 08:51:01');
 
 --
 -- Indexes for dumped tables
